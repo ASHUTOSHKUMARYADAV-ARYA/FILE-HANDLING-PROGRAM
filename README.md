@@ -135,5 +135,5 @@ if (fp == NULL) {
 File handling is a crucial concept that allows data to be stored and retrieved effectively. Whether you’re making a simple text editor or a complex data management system, file handling enables your programs to be more useful and dynamic. Mastering file handling lays a strong foundation for learning databases, data structures, and software development in general.
 
 #OUTPUT
-![Image](https://github.com/user-attachments/assets/e4f991b6-c91b-47a0-a5ea-d4d804755a30)
+![Image](https://github.com/user-attachments/assets/cdbe41d1-5d46-457f-a988-9b5b82d046ba)
 
